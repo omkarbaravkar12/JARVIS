@@ -1,0 +1,3 @@
+cd C:\Users\Omkar\Desktop\Jarvis
+venv\Scripts\activate
+python main.py
